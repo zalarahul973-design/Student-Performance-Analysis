@@ -5,6 +5,58 @@
   
 </p>
 
+<img width="1671" height="941" alt="image" src="https://github.com/user-attachments/assets/d1b17c1c-b67c-4737-9461-9473f11008e0" />
+
+
+### 🖱️ Click the Image Above
+
+<p align="center">
+
+<a href="#-project-workflow">
+🔄 <b>PROJECT WORKFLOW</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-data-cleaning">
+🧹 <b>DATA CLEANING</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-passfail-analysis">
+🎯 <b>PASS/FAIL ANALYSIS</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-department-wise-analysis">
+🏢 <b>DEPARTMENT ANALYSIS</b>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#-course-wise-analysis">
+📚 <b>COURSE ANALYSIS</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-monthly-average-score">
+📅 <b>MONTHLY SCORE</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-data-visualization">
+📈 <b>VISUALIZATION</b>
+</a>
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<a href="#-output-files">
+💾 <b>OUTPUT FILES</b>
+</a>
+
+</p>
+
+
 ## 🏷️ Skills Badges
 
 <p align="center">
