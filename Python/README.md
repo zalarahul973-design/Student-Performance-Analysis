@@ -23,9 +23,26 @@
 ---
 ## 📌 Project Overview
 
-This project performs **Student Performance Analysis using Python**.
+🎓 **Student Performance Analysis using Python**
 
-The project uses assessment and course datasets to clean, merge, analyze, and visualize student performance data.
+This project focuses on analyzing **student assessment and course performance data** using Python. 📊
+
+### 🔍 What This Project Does
+
+* 📂 **Loads** assessment and course datasets
+* 🧹 **Cleans** and prepares the data
+* 🔗 **Merges** multiple datasets using `course_id`
+* 🎯 **Identifies** Pass/Fail performance
+* 🏢 **Analyzes** department-wise performance
+* 📚 **Analyzes** course-wise performance
+* 📅 **Calculates** monthly average scores
+* 📈 **Visualizes** performance using Matplotlib
+* 💾 **Exports** cleaned data and analysis results
+
+### 🎯 Project Goal
+
+The main goal of this project is to transform **raw student performance data into meaningful insights** that can help understand student performance across **courses, departments, and months**. 🚀
+
 
 ### 🎯 Main Objectives
 
