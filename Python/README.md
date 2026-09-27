@@ -1,7 +1,26 @@
-# Student Performance Analysis – Python
+
+<h1 align="center">🚀 Student Performance Analysis – Python</h1>
+
+<p align="center">
+  
+</p>
+
+## 🏷️ Skills Badges
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge\&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=for-the-badge\&logo=matplotlib)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-red?style=for-the-badge\&logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge\&logo=microsoft-excel)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge\&logo=jupyter)
+
+</p>
+
 
 ---
-
 ## 📌 Project Overview
 
 This project performs **Student Performance Analysis using Python**.
