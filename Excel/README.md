@@ -1,4 +1,11 @@
+<div align="center">
+
 # 📊 ExcelPro Analytics & Assessment Project
+
+---
+![ExcelPro Header](https://img.shields.io/badge/EXCELPRO-ANALYTICS_%26_ASSESSMENT-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</div>
+
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f8517747-e119-46a1-882f-bee133231935" />
 
@@ -24,10 +31,27 @@
 This documentation provides comprehensive guidelines and a complete `README.md` overview for the `excelpro.xlsx` project, based on its raw data sheets, cleaning workflows, summary metrics, and visual artifacts.
 
 ---
+## 🏷️ Skills Badges
+<p align="center">
 
-## 📌 Project Overview
-**ExcelPro** is a Student Assessment and Course Performance Analytics platform. Its primary goal is to evaluate candidate performance, monitor attendance percentages, calculate pass/fail status, and uncover department-level trends over time.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0052CC?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF9900?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-4B0082?style=for-the-badge)
+![Excel Formulas](https://img.shields.io/badge/Excel_Formulas-0078D4?style=for-the-badge)
 
+</p>
+
+
+## 🏷️ 📌 Project Overview
+
+
+**ExcelPro** is a comprehensive Student Assessment and Course Performance Analytics platform. Its primary objectives include:
+
+* **Evaluating Performance:** Tracking individual candidate assessment scores and overall progress.
+* **Monitoring Attendance:** Analyzing attendance percentages across various learning batches.
+* **Status Determination:** Automatically calculating pass/fail flags based on predefined evaluation benchmarks.
+* **Trend Analysis:** Uncovering high-level department and batch-wise performance trends over time.
 ---
 
 ## 📌 Executive Summary
@@ -143,3 +167,23 @@ Uses conditional aggregation to calculate passing assessments per batch:
 2. **Update Metadata:** Manage new course codes or department mappings in `courses(lookup)`.
 3. **Inspect Clean Data:** Check the `Clean` tab for auto-populated department fields and audit notes.
 4. **Analyze Insights:** Navigate to `Summary` for batch-wise totals and monthly department average scores.
+
+# 👨‍💻 Author
+
+## Rahul Zala
+
+**ExcelPro Analytics**
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please give the repository a **Star ⭐**.
+
+<p align="center">
+
+**Made with  by Rahul Zala**
+
+</p>
+
+
